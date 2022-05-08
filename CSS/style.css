@@ -1,0 +1,12 @@
+body{
+    background-color: #A9A9A9;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1em;
+    text-align: justify;
+}
+h1{
+    background-color: #1E90FF;
+}
+.class-titulo{
+    font-style: italic;
+}
